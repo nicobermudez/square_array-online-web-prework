@@ -10,3 +10,4 @@ end
 
 def new_square_array(array)
   array.collect { |a| a = a ** 2}
+end
