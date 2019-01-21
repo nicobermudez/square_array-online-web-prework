@@ -8,3 +8,5 @@ def square_array(array)
 end
 
 
+def new_square_array(array)
+  array.collect()
